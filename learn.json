@@ -895,6 +895,40 @@
 			}]
 		}]
 	},
+	"miso": {
+		"name": "Miso",
+		"description": "Miso is a small, production-ready, isomorphic Haskell front-end framework for quickly building highly interactive single-page web applications. It features a virtual-dom, diffing / patching algorithm, event delegation, event batching, SVG, Server-sent events, Websockets, type-safe servant-style routing and an extensible Subscription / Effect system.",
+		"homepage": "haskell-miso.org",
+		"examples": [{
+			"name": "Miso",
+			"url": "examples/miso"
+		}],
+		"link_groups": [{
+			"heading": "Official Resources",
+			"links": [{
+				"name": "Official Site",
+				"url": "https://haskell-miso.org"
+			}, {
+				"name": "GitHub",
+				"url": "https://github.com/haskell-miso/miso"
+			}, {
+				"name": "Hackage",
+				"url": "https://hackage.haskell.org/package/miso"
+			}, {
+				"name": "Haddocks",
+				"url": "https://haddocks.haskell-miso.org"
+			}]
+		}, {
+			"heading": "Community",
+			"links": [{
+				"name": "GitHub Discussions",
+				"url": "https://github.com/haskell-miso/miso/discussions"
+			}, {
+				"name": "Issue Tracker",
+				"url": "https://github.com/haskell-miso/miso/issues"
+			}]
+		}]
+	},
 	"mithril": {
 		"name": "Mithril",
 		"description": "Mithril is a modern client-side Javascript framework for building Single Page Applications. It's small (< 8kb gzip), fast and provides routing and XHR utilities out of the box.",
